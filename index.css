@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: coral;
+}
+
+.main{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-description{
+    padding: 20px;
+    background-color: aquamarine;
+    width: 300px;
+}
+
+.main-links{
+    padding: 20px;
+    background-color: pink;
+    width: 300px;
+    display: flex;
+    flex-direction: column  ;
+}
+
+img{
+    height:800px
+}

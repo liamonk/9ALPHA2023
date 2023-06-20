@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color:#d17a22;
+    color: rgb(251, 220, 220);
+    padding: 0 20 0 20;
+}
+
+.main{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-description{
+    padding: 20px;
+    background-color:  #4C061D;
+    color: rgb(251, 220, 220);
+}
+
+.main-links{
+    padding: 20px;
+    background-color: #b4c292;
+    width: 300px;
+}
+
+img{
+    height:800px
+}
